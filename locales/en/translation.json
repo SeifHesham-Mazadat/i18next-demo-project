@@ -1,0 +1,20 @@
+{
+  "key": "hello world",
+  "spWorkingHours_one": "service point is {{count}}",
+  "spWorkingHours_few": "few service points {{count}}",
+  "spWorkingHours_many": "many service points {{count}}",
+  "spWorkingHours_zero": "no service points",
+  "spWorkingHours_other": "service points count {{count}}",
+  "servicePoints": {
+    "october": "this is october branch"
+  },
+  "actionsTodoList": {
+    "actionAlreadyRead": "Action is already read",
+    "actionExists": "Action already exists!",
+    "actionNotFound": "Actions are not found!"
+  },
+  "earlyDropOff": {
+    "earlyDropOffItemsBody": "Drop off items of post with title {{- postTitle}} at {{- SP}} service point"
+  },
+  "welcomeUser": "Welcome {{username}}"
+}

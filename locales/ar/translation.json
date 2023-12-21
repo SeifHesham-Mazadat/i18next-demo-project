@@ -1,0 +1,20 @@
+{
+  "key": "مرحبا بك",
+  "spWorkingHours_zero": "لا يوجد ساعات العمل في نقطة الخدمة {{count}}",
+  "spWorkingHours_one": "عدد ساعات العمل في نقطة الخدمة هى {{count}}",
+  "spWorkingHours_few": "القليل من ساعات العمل {{count}}",
+  "spWorkingHours_many": "الكثير من ساعات العمل {{count}}",
+  "spWorkingHours_other": "عدد ساعات العمل في نقط الخدمة هى {{count}}",
+  "servicePoints": {
+    "october": "نقطة الخدمة هى {{count}}"
+  },
+  "actionsTodoList": {
+    "actionAlreadyRead": "تم قراءة الإجراء بالفعل",
+    "actionExists": "تم عمل هذا الإجراء بالفعل",
+    "actionNotFound": "هذه الإجراءات غير موجودة"
+  },
+  "earlyDropOff": {
+    "earlyDropOffItemsBody": "برجاء بتسليم منتجات الإعلان {{- SP}} بشكل مُبكر في نقطة خدمة {{- postTitle}}"
+  },
+  "welcomeUser": "مرحبا بك {{username}}"
+}
