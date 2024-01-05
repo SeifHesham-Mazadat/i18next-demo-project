@@ -14,7 +14,7 @@
     "actionNotFound": "Actions are not found!"
   },
   "earlyDropOff": {
-    "earlyDropOffItemsBody": "Drop off items of post with title {{- postTitle}} at {{- SP}} service point"
+    "earlyDropOffItemsBody": "Drop off items of post with title {{postTitle}} at {{SP}} service point"
   },
   "welcomeUser": "Welcome {{username}}"
 }

@@ -1,6 +1,7 @@
 import i18next from 'i18next';
 import LocalBackend from 'i18next-node-fs-backend';
 import LocizeBackend from 'i18next-locize-backend';
+import i18nParser from "../utils/i18n-parser.js";
 import * as path from "path";
 import * as fs from "fs";
 
@@ -60,6 +61,10 @@ const i18nLoader = async (level = 'local') => {
                     loadPath: 'locales/{{lng}}/{{ns}}.json'
                 }
             })
+    }
+
+    if (level === 'customParser') {
+        return i18nParser.t
     }
 
     return i18next

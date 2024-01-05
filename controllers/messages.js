@@ -13,7 +13,7 @@ const listKeys = async (req, res, next) => {
         return res.send(memoryKeys)
     }
 
-    if (level === 'local') {
+    if (level === 'local' || level === 'customParser') {
         return res.send(localKeys)
     }
 
@@ -38,7 +38,7 @@ const getSingleMessage = async (req, res, next) => {
 
     const t = await i18nLoader(level)
 
-    if (!i18next.exists(key)) {
+    if (!i18next.exists(key) && level !== 'customParser') {
         return res.status(404).send({
             message: 'key not found',
         })
