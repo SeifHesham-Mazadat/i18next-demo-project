@@ -1,9 +1,9 @@
 {
   "key": "مرحبا بك",
-  "spWorkingHours_zero": "لا يوجد ساعات العمل في نقطة الخدمة {{count}}",
   "spWorkingHours_one": "عدد ساعات العمل في نقطة الخدمة هى {{count}}",
   "spWorkingHours_few": "القليل من ساعات العمل {{count}}",
   "spWorkingHours_many": "الكثير من ساعات العمل {{count}}",
+  "spWorkingHours_zero": "لا يوجد ساعات العمل في نقطة الخدمة",
   "spWorkingHours_other": "عدد ساعات العمل في نقط الخدمة هى {{count}}",
   "servicePoints": {
     "october": "نقطة الخدمة هى {{count}}"
