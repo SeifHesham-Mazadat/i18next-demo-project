@@ -6,7 +6,7 @@
   "spWorkingHours_zero": "no service points",
   "spWorkingHours_other": "service points count {{count}}",
   "servicePoints": {
-    "october": "this is october branch"
+    "october": "{{count}} points availalble"
   },
   "actionsTodoList": {
     "actionAlreadyRead": "Action is already read",

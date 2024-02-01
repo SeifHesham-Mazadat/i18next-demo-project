@@ -14,7 +14,7 @@
     "actionNotFound": "هذه الإجراءات غير موجودة"
   },
   "earlyDropOff": {
-    "earlyDropOffItemsBody": "برجاء بتسليم منتجات الإعلان {{- SP}} بشكل مُبكر في نقطة خدمة {{- postTitle}}"
+    "earlyDropOffItemsBody": "برجاء بتسليم منتجات الإعلان {{SP}} بشكل مُبكر في نقطة خدمة {{postTitle}}"
   },
-  "welcomeUser": "مرحبا بك {{username}}"
+  "welcomeUser": "اهلا وسهلا يا استاذ {{username}}"
 }
