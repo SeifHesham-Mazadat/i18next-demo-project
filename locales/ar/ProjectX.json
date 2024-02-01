@@ -16,5 +16,8 @@
   "earlyDropOff": {
     "earlyDropOffItemsBody": "برجاء بتسليم منتجات الإعلان {{SP}} بشكل مُبكر في نقطة خدمة {{postTitle}}"
   },
-  "welcomeUser": "اهلا وسهلا يا استاذ {{username}}"
+  "welcomeUser": "اهلا وسهلا يا استاذ {{username}}",
+  "test": {
+    "sub": "الفرعية"
+  }
 }

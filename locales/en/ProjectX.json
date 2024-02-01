@@ -1,7 +1,7 @@
 {
   "key": "hello world",
   "spWorkingHours_one": "service point is {{count}}",
-  "spWorkingHours_few": "few service points {{count}}",
+  "spWorkingHours_few": "Few service points {{count}}!",
   "spWorkingHours_many": "many service points {{count}}",
   "spWorkingHours_zero": "no service points",
   "spWorkingHours_other": "service points count {{count}}",
@@ -16,5 +16,8 @@
   "earlyDropOff": {
     "earlyDropOffItemsBody": "Drop off items of post with title {{postTitle}} at {{SP}} service point"
   },
-  "welcomeUser": "Welcome {{username}}"
+  "welcomeUser": "Welcome {{username}}",
+  "test": {
+    "sub": "Sub"
+  }
 }
